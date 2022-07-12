@@ -1,7 +1,7 @@
 # MoodBotAssistant
 Vocal assistante
 
-#IMPORTANT TO KNOW
+# IMPORTANT TO KNOW
 
 this program is divided into two important parts
 
@@ -14,7 +14,7 @@ The latter retrieves the String and executes the request....
 
 
 
-#ADVICES
+# ADVICES
 
 You need to convert python file <br />
 called -- (mood.pyw) --> to exe file <br />
@@ -26,7 +26,7 @@ don't let it on -> dist <- folder
 Pyinstaller can help you to convert py / pyw files to exe <br /> 
 Exemple : pip install pyinstaller
 
-#using
+# using
 
-  Usage of pyinstaller 
+  Usage of pyinstaller <br /> 
 Exemple : pyinstaller --onefile mood.pyw
