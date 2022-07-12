@@ -23,10 +23,12 @@ don't let it on -> dist <- folder
 
 # Installing Pyinstaller 
 
-Pyinstaller can help you to convert py / pyw files to exe <br /> 
+*Pyinstaller can help you to convert py / pyw files to exe <br /> 
+
 Exemple : pip install pyinstaller
 
 # using
 
-  Usage of pyinstaller <br /> 
-Exemple : pyinstaller --onefile mood.pyw
+  *Usage of pyinstaller <br /> 
+  
+  Exemple : pyinstaller --onefile mood.pyw
