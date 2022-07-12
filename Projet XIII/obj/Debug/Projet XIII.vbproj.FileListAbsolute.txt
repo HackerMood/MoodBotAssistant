@@ -1,0 +1,15 @@
+C:\Users\DELL\Documents\My_Projet\ProjetVB\Projet XIII\Projet XIII\bin\Debug\Projet XIII.exe.config
+C:\Users\DELL\Documents\My_Projet\ProjetVB\Projet XIII\Projet XIII\bin\Debug\Projet XIII.exe
+C:\Users\DELL\Documents\My_Projet\ProjetVB\Projet XIII\Projet XIII\bin\Debug\Projet XIII.pdb
+C:\Users\DELL\Documents\My_Projet\ProjetVB\Projet XIII\Projet XIII\bin\Debug\Projet XIII.xml
+C:\Users\DELL\Documents\My_Projet\ProjetVB\Projet XIII\Projet XIII\obj\Debug\Projet XIII.vbproj.AssemblyReference.cache
+C:\Users\DELL\Documents\My_Projet\ProjetVB\Projet XIII\Projet XIII\obj\Debug\Projet XIII.vbproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Documents\My_Projet\ProjetVB\Projet XIII\Projet XIII\obj\Debug\Projet_XIII.Form1.resources
+C:\Users\DELL\Documents\My_Projet\ProjetVB\Projet XIII\Projet XIII\obj\Debug\Projet_XIII.Resources.resources
+C:\Users\DELL\Documents\My_Projet\ProjetVB\Projet XIII\Projet XIII\obj\Debug\Projet XIII.vbproj.GenerateResource.cache
+C:\Users\DELL\Documents\My_Projet\ProjetVB\Projet XIII\Projet XIII\obj\Debug\Projet XIII.vbproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\My_Projet\ProjetVB\Projet XIII\Projet XIII\obj\Debug\Projet XIII.exe
+C:\Users\DELL\Documents\My_Projet\ProjetVB\Projet XIII\Projet XIII\obj\Debug\Projet XIII.xml
+C:\Users\DELL\Documents\My_Projet\ProjetVB\Projet XIII\Projet XIII\obj\Debug\Projet XIII.pdb
+C:\Users\DELL\Documents\My_Projet\ProjetVB\Projet XIII\Projet XIII\obj\Debug\Projet_XIII.Form2.resources
+C:\Users\DELL\Documents\My_Projet\ProjetVB\Projet XIII\Projet XIII\obj\Debug\Projet_XIII.Form3.resources
