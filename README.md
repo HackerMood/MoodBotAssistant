@@ -19,4 +19,14 @@ The latter retrieves the String and executes the request....
 You need to convert python file <br />
 called -- (mood.pyw) --> to exe file <br />
 and copy the file mood.exe in Debug folder <br /> 
-don't let it on -> dist <- folder   
+don't let it on -> dist <- folder  
+
+# Installing Pyinstaller 
+
+Pyinstaller can help you to convert py / pyw files to exe <br /> 
+Exemple : pip install pyinstaller
+
+#using
+
+  Usage of pyinstaller 
+Exemple : pyinstaller --onefile mood.pyw
